@@ -1,15 +1,15 @@
-# Real_time_chat_app
+# Real_time_chat_messaging_app
 
-**ABSTRACT**
+**Abstract**
 
 Real time chat application named “CHAT-ROOM” is a 21st Century is the age of technology and social media with the increase in social media the amount of applications have tremendously increased with the last decade with the increase of online access and cheap internet life has become more simpler to get things just by using one-click and accessing the functionality of the application. But with the increased risk of data leak and application hacking the security and privacy has been the primal factor for the user for the past few years. 
 So with this current motive we are making a chat application using socket programming.
 
-**INTRODUCTION**
+**Introduction**
 
 CHAT-ROOM is a social-networking tool that leverages on technology advancement thereby allowing its users communicate and share media. It offers a wonderful one stop shop experience for keeping in touch with people you know. It can be used for messaging, placing voice messages, making voice and video calls, share updates and photos, share locations, enhance local socializing in pidgin English, play games and make monetary financial transactions. 
 
-**BACKGROUND AND MOTIVATION**
+**Background and Motiovation**
 
 CHATY has the potential to become a widely used socializing app in Africa with specific focus on the West African sub region with a grass root pilot scheme take off in Nigeria due to the continent rich multi ethnic culture and a wide range of her special way of communication called pidgin English in Nigeria. The numerical strength of the Nigerian population which is estimated to be above 200million people presently affords a viable economic space as a rallying point for this application. With the gradual acceptance of adult literacy gaining roots in Africa and the various government policies to drive education to the grass roots, CHATY will be a welcome development and very user friendly to the average Nigerian citizen among which includes the local peasant farmers, market women, artisans, the low-income earners, less privilege and the lower social stratification individuals who are numerous in population. The introduction of the Pidgin English feature is a primary drive and force of attraction as it helps break the rank of the academic division between those who claim the Queens English is the best, thereby creating fun and increased cross fertilization of ideas, with a resultant economic boost.
 While emphasis must be made to fore runners of similar inventions, which cuts across technology divides, it must be well understood that the basic fundamental of the CHATY which is embedded in messaging service, evolve as an app where you can comfortably make financial transactions as well. 
@@ -34,7 +34,7 @@ So we made this for people free of cost and made this project with people’s de
 
 The global consumer electronics industry is witnessing an impressive growth rate in both developed and developing countries majorly due to continuous advancement in technology and increasing affordability of these devices. Smartphones, cameras, laptops, and tablets have become an integral part of consumer lives. All these devices are becoming smarter with the ongoing technological advancements especially in functionality and camera systems due to the integration of technologies such as AI and IoT. With this, the increase of social media messaging apps, the rise of cyberattacks and user privacy has been a concern for many years and many people are entirely focused on the security, privacy and anonymity.
 
-**AIMS AND OBJECTIVE**
+**Aim and Objective**
 
 1.	MESSAGING: One of the primary use of CHAT-ROOM is messaging. Just like other social apps, you have a list of conversations that you’re engaged in. This feature is pivotal as you can add people in a variety of ways aside the conventional way of details collection. When fully operational, you will be amazed how individuals will have to scan their phones during details collection. This is made possible as each CHAT-ROOM user will have a unique barcode known as a QR code. One person can scan the other user’s QR code to add them to CHAT-ROOM. Users of CHAT-ROOM can also use a phone number to add a person to their contact list and even search for people nearby. CHAT-ROOM enormous social power will be let loosed as it will translate to become one of the main ways people will have to communicate in Nigeria and sub-Sahara Africa. Even when doing business, people will prefer CHAT-ROOM to email. With inbuilt plug ins that allows individuals to load pictures and videos and their contacts can make comments about them.
 
@@ -52,7 +52,7 @@ The global consumer electronics industry is witnessing an impressive growth rate
 
 4. While emphasis must be made to fore runners of similar inventions, which cuts across technology divides, it must be well understood that  the basic fundamental of the CHAT-ROOM which is embedded in messaging service, evolve as an app where you can comfortably make financial transactions as well.
 
-**FEATURES:** 
+**Features:** 
 
 There are several functions provided by the Real time chat Application :-
 
@@ -66,7 +66,7 @@ There are several functions provided by the Real time chat Application :-
 
 	Sending File – With this the users can send their files anonymously which is directly forwaded to the server without storing.
 
-**CONSTRAINT ANALYSIS:**
+**Constraint Analysis:**
 
 	The system must be connected to the internet. 
 
@@ -87,3 +87,29 @@ Push notifications: You don’t want your users to have to open your app every f
 Sharing of media files: Gone are the days of plain text messages. Gifs, emojis, audio, images and video files are the new standard. So your app will need local media storage along with cloud storage for fast retrieval.
 
 User settings & profile customization: Customization lets your users express their individuality and creativity. Whether it’s the ability to change their font, background color, nickname or something else—it’s important to allow users some flexibility to personalize their experience.
+
+**SCREENSHOTS**
+
+![1](https://github.com/abhisheksingh4891/Real_time_chat_app/assets/75315222/db2fa07e-9132-4ef5-88ec-0304e160b7ee)
+
+
+![2](https://github.com/abhisheksingh4891/Real_time_chat_app/assets/75315222/f3451ecd-52c2-4665-a7fd-080957dc6293)
+
+
+![3](https://github.com/abhisheksingh4891/Real_time_chat_app/assets/75315222/a7dc84de-bea7-4eb5-b0fd-485280dcdfc9)
+
+
+![4](https://github.com/abhisheksingh4891/Real_time_chat_app/assets/75315222/9be8678b-2eaa-44d1-a436-31c39120b6a1)
+
+
+![5](https://github.com/abhisheksingh4891/Real_time_chat_app/assets/75315222/6ef7ce7e-b61c-4930-b216-4d3dc1830fcb)
+
+
+![6](https://github.com/abhisheksingh4891/Real_time_chat_app/assets/75315222/c14b1b0b-a619-4b9b-a716-5fa0bba020f3)
+
+
+
+
+
+
+
